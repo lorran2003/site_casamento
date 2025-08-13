@@ -1,6 +1,6 @@
 import { NavLink } from "react-router";
 
-export function NavBar() {
+export function Header() {
     return (
         <header className="sticky top-0 bg-white shadow-md z-50 w-full h-20 opacity-50 p-4">
 

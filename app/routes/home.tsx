@@ -1,4 +1,3 @@
-import { NavBar } from "~/components/NavBar";
 import type { Route } from "./+types/home";
 import { HomePage } from "~/pages/HomePage";
 

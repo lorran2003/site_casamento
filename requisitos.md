@@ -45,3 +45,5 @@ Criar a página principal com:
 * Adicionar mapa com Google Maps Embed.
 
 * Adicionar local, data e horário.
+
+* Tem que funcionar bem em celular

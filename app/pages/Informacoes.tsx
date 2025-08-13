@@ -1,12 +1,8 @@
-import { NavBar } from "~/components/NavBar";
 
 export function Informacoes() {
     return (
-        <section>
-            <NavBar />
-            <main>
+        <main>
 
-            </main>
-        </section>
+        </main>
     )
 }
